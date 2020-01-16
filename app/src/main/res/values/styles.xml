@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="MainTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@android:color/transparent</item>
+    </style>
+</resources>
